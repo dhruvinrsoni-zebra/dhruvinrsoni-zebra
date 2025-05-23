@@ -1,4 +1,4 @@
-# Dhruvin R. Soni
+# Dhruvin Rupesh Soni
 
 ## Professional Summary
 Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
