@@ -1,15 +1,17 @@
-# Dhruvin Rupesh Soni
+# Dhruvin Rupesh Soni - 
+
+## Main Profile https://dhruvinrsoni.github.io/dhruvinrsoni/
+## Dhruvin Soni - Portfolio https://dhruvinrsoni.github.io
 
 ## Professional Summary
 Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
 
 ## Table of Contents
-1. [Bio](#bio)
-2. [Projects](#projects)
-3. [Skills and Technologies](#skills-and-technologies)
-4. [Future Goals](#future-goals)
-5. [Contact](#contact)
-6. [Hobbies and Interests](#hobbies-and-interests)
+[Bio](#bio)
+[Skills and Technologies](#skills-and-technologies)
+[Future Goals](#future-goals)
+[Contact](#contact)
+[Hobbies and Interests](#hobbies-and-interests)
 
 ## Bio
 - 👋 Hi, I’m @dhruvinrsoni-zebra
@@ -18,10 +20,6 @@ Passionate Web Developer with experience in various web technologies and current
 - 💞️ I’m looking to collaborate on my current tech stack or let's explore something new
 - 📫 How to reach me at professionally on LinkedIn or personally via MyHandle @dhruvinrsoni
 
-## Projects
-### Project 1: [zstock0holics](#)
-Basic project of hackathon.
-[Link](#https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
 
 ## Skills and Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -43,21 +41,11 @@ In July 2019, I embarked on an exciting journey with Reflexis Systems, now part 
 
 [Check out my LinkedIn post for more insights!](https://www.linkedin.com/posts/activity-7213586248383287297-gZ3I?utm_source=share&utm_medium=member_desktop)
 
-### 📅 Timeline of Achievements
-
-- **2019**: Joined Reflexis Systems as a Software Developer in the Advanced Analytics team.
-- **2020**: Key contributor to the AI Performance Manager, enhancing backend solutions.
-- **2020 (Sep)**: Reflexis Systems acquired by Zebra Technologies; began leveraging Google Cloud technologies.
-- **2021**: Developed automated CI/CD pipelines and tackled security challenges.
-- **2022**: Implemented scalable ETL functions, ensuring robust performance in a microservice architecture.
-- **2023**: Recognized with a 5-Year Service Award for outstanding contributions.
-
 ### 🚀 Future Goals
 
 Looking ahead, I am eager to further explore the fields of data science and AI, diving into big data solutions and new-generation trends. My aim is to continue driving innovation and delivering impactful solutions in the tech industry.
 
 Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) for the latest updates!
-
 
 ## Future Goals
 - Continue to expand my knowledge in DevOps and cloud technologies.
@@ -68,11 +56,6 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 - LinkedIn: [@dhruvinrsoni](https://www.linkedin.com/in/dhruvinrsoni/)
 - Twitter: [@dhruvinrsoni](https://x.com/dhruvinrsoni)
 - GitHub: [@dhruvinrsoni](https://github.com/dhruvinrsoni)
-
-## Hobbies and Interests
-- Reading books on technology and science fiction.
-- Traveling and exploring new places.
-- Playing chess and solving puzzles.
 
 <!---
 dhruvinrsoni-zebra/dhruvinrsoni-zebra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
