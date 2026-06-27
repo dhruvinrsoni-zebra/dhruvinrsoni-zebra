@@ -1,8 +1,8 @@
 # Dhruvin Rupesh Soni
 
-## Main Profile - https://dhruvinrsoni.github.io/dhruvinrsoni/
-## Dhruvin Soni - Portfolio https://dhruvinrsoni.github.io
-## Work Profile - https://dhruvinrsoni-zebra.github.io/
+## Main Profile [https://dhruvinrsoni.github.io/dhruvinrsoni/](https://dhruvinrsoni.github.io/dhruvinrsoni/)
+## Dhruvin Soni - Portfolio [https://dhruvinrsoni.github.io](https://dhruvinrsoni.github.io)
+## Work Profile [https://dhruvinrsoni-zebra.github.io/](https://dhruvinrsoni-zebra.github.io/)
 
 ## Professional Summary
 Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
